@@ -20,6 +20,7 @@ One of the most frequently asked questions at my nursery is "where can I find x 
  <br>
 <!-- Add script to the <head> of your page to load the embeddable map component -->
 <script type="module" src="https://js.arcgis.com/5.1/embeddable-components/"></script>
+  TEST PART II
 <!-- Add custom element to <body> of your page -->
  <arcgis-embedded-map style="height:600px;width:700px;" item-id="c5f2a514ea034f2aa1b836d3243bd8db" theme="light" heading-enabled legend-enabled time-zone-label-enabled center="-122.16761900149599,37.73036821895217"scale="1128.4971763449764" portal-url="https://chabotcollege.maps.arcgis.com"></arcgis-embedded-map> 
 </p>

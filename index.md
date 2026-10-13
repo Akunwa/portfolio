@@ -16,8 +16,15 @@ Map of Nursery
 One of the most frequently asked questions at my nursery is "where can I find x plant?" I created a digital map of the nursery so that customers and staff can address questions like these.
 
 <p> TEST OF MAP VIEW  
-<iframe width="700" height="600" allow="local-network-access; geolocation" title="Nursery Display V.1" src="https://chabotcollege.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=c5f2a514ea034f2aa1b836d3243bd8db&theme=light&heading=true&legend=true&scroll=false&center=-122.16761900149599,37.73036821895217&scale=1128.4971763449764" ></iframe>
+  <iframe width="700" height="600" allow="local-network-access; geolocation" title="Nursery Display V.1" src="https://chabotcollege.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=c5f2a514ea034f2aa1b836d3243bd8db&theme=light&heading=true&legend=true&scroll=false&center=-122.16761900149599,37.73036821895217&scale=1128.4971763449764" ></iframe>
+ <br>
+<!-- Add script to the <head> of your page to load the embeddable map component -->
+<script type="module" src="https://js.arcgis.com/5.1/embeddable-components/"></script>
+<!-- Add custom element to <body> of your page -->
+ <arcgis-embedded-map style="height:600px;width:700px;" item-id="c5f2a514ea034f2aa1b836d3243bd8db" theme="light" heading-enabled legend-enabled time-zone-label-enabled center="-122.16761900149599,37.73036821895217"scale="1128.4971763449764" portal-url="https://chabotcollege.maps.arcgis.com"></arcgis-embedded-map> 
 </p>
+
+<br>
 
 <p align="center">
   <img src="assets/img/nursery_map/full_map.png" alt="digital map of nursery" width="500">

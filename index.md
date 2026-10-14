@@ -16,7 +16,7 @@ Map of Nursery
 One of the most frequently asked questions at my nursery is "where can I find x plant?" I created a digital map of the nursery so that customers and staff can address questions like these.
 
 <p align="center">
-  <img src="assets/img/nursery_map/nurseryDisp1/full_map.png" alt="digital map of nursery" width="500">
+  <img src="assets/img/nursery_map/nurseryDisp1.png" alt="digital map of nursery" width="500">
   <small><i>Digital map of nursery</i></small>
 </p>
 

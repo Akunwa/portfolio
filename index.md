@@ -30,7 +30,6 @@ One of the most frequently asked questions at my nursery is "where can I find x 
   <small><i>Left: native California plant in inventory. Right: Sisyrinchium bellum (Blue-eyed Grass)</i></small>
 </p>
 
-
 <p align="center">
   <img src="assets/img/nursery_map/full_map.png" alt="digital map of nursery" width="500">
   <small><i>Digital map of nursery</i></small>
